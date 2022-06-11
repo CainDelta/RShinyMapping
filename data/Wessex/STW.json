@@ -1,0 +1,171 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4326"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.120364446999929,
+          51.438832083000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID_1" : 1,
+        "OBJECTID" : 4,
+        "MAPINFO_ID" : 150,
+        "ID" : "Z1012103",
+        "ConsentNoV" : "101637_2",
+        "RECEIVING_" : "RIVER AVON(S)",
+        "SimName" : "CHIPPENHAM STW",
+        "Northing" : 171100,
+        "Easting" : 391730,
+        "SimFlowMea" : 12.5,
+        "SimFeature" : 3,
+        "SimFlowSD" : 3.75,
+        "SimFlowShi" : 5,
+        "UniqueRef" : 1839,
+        "NewEasting" : 391730,
+        "NewNorthin" : 171105,
+        "DistanceMo" : 5.8304858368400003,
+        "Checked" : 0,
+        "Checked_by" : " ",
+        "Check_date" : " ",
+        "Error" : 0,
+        "New" : 0,
+        "Describe_c" : " ",
+        "Changes_Ma" : 0,
+        "Changed_By" : " ",
+        "Date_chang" : null,
+        "Describe_1" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.2159854509999377,
+          51.33600827500004
+        ]
+      },
+      "properties" : {
+        "OBJECTID_1" : 2,
+        "OBJECTID" : 2,
+        "MAPINFO_ID" : 151,
+        "ID" : "A0340108",
+        "ConsentNoV" : "102153_2",
+        "RECEIVING_" : "F/E-RIVER AVON, CSO-",
+        "SimName" : "TROWBRIDGE STW",
+        "Northing" : 159680,
+        "Easting" : 385050,
+        "SimFlowMea" : 17.5,
+        "SimFeature" : 3,
+        "SimFlowSD" : 5.25,
+        "SimFlowShi" : 7,
+        "UniqueRef" : 1840,
+        "NewEasting" : 385045,
+        "NewNorthin" : 159675,
+        "DistanceMo" : 7.0003929646699996,
+        "Checked" : 0,
+        "Checked_by" : " ",
+        "Check_date" : " ",
+        "Error" : 0,
+        "New" : 0,
+        "Describe_c" : " ",
+        "Changes_Ma" : 0,
+        "Changed_By" : " ",
+        "Date_chang" : null,
+        "Describe_1" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.2674061849999703,
+          51.34111690800006
+        ]
+      },
+      "properties" : {
+        "OBJECTID_1" : 3,
+        "OBJECTID" : 1,
+        "MAPINFO_ID" : 152,
+        "ID" : "60131506",
+        "ConsentNoV" : "102190_3",
+        "RECEIVING_" : "RIVER AVON(S)",
+        "SimName" : "BRADFORD ON AVON STW",
+        "Northing" : 160260,
+        "Easting" : 381470,
+        "SimFlowMea" : 3.77,
+        "SimFeature" : 3,
+        "SimFlowSD" : 1.1299999999999999,
+        "SimFlowShi" : 1.508,
+        "UniqueRef" : 1841,
+        "NewEasting" : 381424,
+        "NewNorthin" : 160390,
+        "DistanceMo" : 138.78263957300001,
+        "Checked" : 0,
+        "Checked_by" : " ",
+        "Check_date" : " ",
+        "Error" : 0,
+        "New" : 0,
+        "Describe_c" : " ",
+        "Changes_Ma" : 0,
+        "Changed_By" : " ",
+        "Date_chang" : null,
+        "Describe_1" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.1477107069999306,
+          51.375444635000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID_1" : 4,
+        "OBJECTID" : 3,
+        "MAPINFO_ID" : 0,
+        "ID" : " ",
+        "ConsentNoV" : " ",
+        "RECEIVING_" : " ",
+        "SimName" : "Melksham STW",
+        "Northing" : 164054,
+        "Easting" : 389815,
+        "SimFlowMea" : 0,
+        "SimFeature" : 0,
+        "SimFlowSD" : 0,
+        "SimFlowShi" : 0,
+        "UniqueRef" : 0,
+        "NewEasting" : 0,
+        "NewNorthin" : 0,
+        "DistanceMo" : 0,
+        "Checked" : 0,
+        "Checked_by" : " ",
+        "Check_date" : " ",
+        "Error" : 0,
+        "New" : 0,
+        "Describe_c" : " ",
+        "Changes_Ma" : 0,
+        "Changed_By" : " ",
+        "Date_chang" : -2209161600000,
+        "Describe_1" : " "
+      }
+    }
+  ]
+}

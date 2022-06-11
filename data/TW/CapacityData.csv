@@ -1,0 +1,17 @@
+Sector,Capacity,TimePeriod,Color
+Network,47,Overall,RED
+Network,35,Last90Days,RED
+Network,49,Last30Days,RED
+Network,15,Forecast5days,RED
+Becton,73,Overall,BLACK
+Becton,71,Last90Days,BLACK
+Becton,20,Last30Days,BLACK
+Becton,45,Forecast5days,BLACK
+Crossness,20,Overall,GREEN
+Crossness,75,Last90Days,GREEN
+Crossness,30,Last30Days,GREEN
+Crossness,60,Forecast5days,GREEN
+Tunnel,80,Overall,ORANGE
+Tunnel,60,Last90Days,ORANGE
+Tunnel,91.1,Last30Days,ORANGE
+Tunnel,40,Forecast5days,ORANGE

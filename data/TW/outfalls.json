@@ -1,0 +1,991 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4326"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.22369473699995979,
+          51.487568725000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "us_node_id" : "23783005",
+        "link_suffi" : "1",
+        "ds_node_id" : "CS04X_ICX_Hammersmith PS",
+        "link_type" : "Cond",
+        "system_typ" : "combined",
+        "asset_id" : "237830051",
+        "sewer_ref" : " ",
+        "length" : 7.5,
+        "con_shape" : "COLLECTION TROUGH",
+        "width" : 7468,
+        "height" : 7000,
+        "Enabled" : 1,
+        "SSC" : "HammerSmithPS",
+        "Sector" : "Hammersmith",
+        "LinkID" : "23783005.1",
+        "downLinkID" : null,
+        "DetailModelName" : "Becton",
+        "PipeRef" : "23783005.1",
+        "SSC_1" : "SSC_HammerSmithPS",
+        "Comment" : "SP",
+        "ORIG_FID" : 1
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.21271045999992566,
+          51.465345880000029
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "us_node_id" : "24751603",
+        "link_suffi" : "1",
+        "ds_node_id" : "TQ24751614",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "247516031",
+        "sewer_ref" : "Low Level Sewer No.1 Putney Bridge Storm Outlet",
+        "length" : 10,
+        "con_shape" : "ARCH2",
+        "width" : 1070,
+        "height" : 1380,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "24751603.1",
+        "downLinkID" : null,
+        "DetailModelName" : "CrossnessICM",
+        "PipeRef" : "24751603.1",
+        "SSC_1" : "SSC_PutneyBridge",
+        "Comment" : "SP",
+        "ORIG_FID" : 2
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.19481828299996096,
+          51.454798111000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "us_node_id" : "25743402",
+        "link_suffi" : "1",
+        "ds_node_id" : "CS07B_IC_FrogmoreSRBuckholdRd",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "257434021",
+        "sewer_ref" : " ",
+        "length" : 94.099999999999994,
+        "con_shape" : "CIRC",
+        "width" : 1676,
+        "height" : 1676,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "25743402.1",
+        "downLinkID" : null,
+        "DetailModelName" : "CrossnessICM",
+        "PipeRef" : "25743402.1",
+        "SSC_1" : "SSC_Frogmore_BuckholdRd",
+        "Comment" : "SP",
+        "ORIG_FID" : 3
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.17752803699994502,
+          51.478426933000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "us_node_id" : "26775142",
+        "link_suffi" : "1",
+        "ds_node_id" : "CS10X_PN_Lots Road PS",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "267751421",
+        "sewer_ref" : " ",
+        "length" : 22.399999999999999,
+        "con_shape" : "CIRC",
+        "width" : 2550,
+        "height" : 2550,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "26775142.1",
+        "downLinkID" : null,
+        "DetailModelName" : "Becton",
+        "PipeRef" : "26775142.1",
+        "SSC_1" : "SSC_LotsRoadSP",
+        "Comment" : "SP",
+        "ORIG_FID" : 4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.12932323999996242,
+          51.486100134000026
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "us_node_id" : "29788014_B",
+        "link_suffi" : "1",
+        "ds_node_id" : "29788001",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "29788014_B1",
+        "sewer_ref" : "King's Scholars' Pond Sewer (Main Line)",
+        "length" : 7.9000000000000004,
+        "con_shape" : "RECT",
+        "width" : 5000,
+        "height" : 4390,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "29788014_B.1",
+        "downLinkID" : null,
+        "DetailModelName" : "Becton",
+        "PipeRef" : "29788014_B.1",
+        "SSC_1" : "SSC_KingsPond_Outfall",
+        "Comment" : "SP",
+        "ORIG_FID" : 5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.12401239199994052,
+          51.496525213000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "us_node_id" : "30792207",
+        "link_suffi" : "2",
+        "ds_node_id" : "30792205a",
+        "link_type" : "Weir",
+        "system_typ" : "storm",
+        "asset_id" : "307922072",
+        "sewer_ref" : " ",
+        "length" : 0,
+        "con_shape" : " ",
+        "width" : 0,
+        "height" : 0,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "30792207.2",
+        "downLinkID" : null,
+        "DetailModelName" : "Becton",
+        "PipeRef" : "30792207.2",
+        "SSC_1" : "SSC_HorseFerryRd",
+        "Comment" : "SP",
+        "ORIG_FID" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.12062916099995391,
+          51.505854021000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "us_node_id" : "30804202",
+        "link_suffi" : "2",
+        "ds_node_id" : "30804202b",
+        "link_type" : "Flap",
+        "system_typ" : "storm",
+        "asset_id" : "308042022",
+        "sewer_ref" : " ",
+        "length" : 0,
+        "con_shape" : " ",
+        "width" : 0,
+        "height" : 0,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "30804202.2",
+        "downLinkID" : null,
+        "DetailModelName" : "Becton",
+        "PipeRef" : "30804202.2",
+        "SSC_1" : "SSC_Northumberland_Outfall",
+        "Comment" : "SP",
+        "ORIG_FID" : 7
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.11686870699998053,
+          51.509114447000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "us_node_id" : "30806681",
+        "link_suffi" : "1",
+        "ds_node_id" : "30806605a",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "308066811",
+        "sewer_ref" : " ",
+        "length" : 20,
+        "con_shape" : "CIRC",
+        "width" : 1548,
+        "height" : 1548,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "30806681.1",
+        "downLinkID" : null,
+        "DetailModelName" : "Becton",
+        "PipeRef" : "30806681.1",
+        "SSC_1" : "SSC_SavoyOutfall",
+        "Comment" : "SP",
+        "ORIG_FID" : 8
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.11245721299997058,
+          51.510157056000025
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "us_node_id" : "30809703d",
+        "link_suffi" : "1",
+        "ds_node_id" : "30809703f",
+        "link_type" : "Flap",
+        "system_typ" : "storm",
+        "asset_id" : "30809703d1",
+        "sewer_ref" : " ",
+        "length" : 0,
+        "con_shape" : " ",
+        "width" : 0,
+        "height" : 0,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "30809703d.1",
+        "downLinkID" : null,
+        "DetailModelName" : "Becton",
+        "PipeRef" : "30809703d.1",
+        "SSC_1" : "SSC_EssexOutfall",
+        "Comment" : "SP",
+        "ORIG_FID" : 9
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.066688228999964849,
+          51.504407968000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "us_node_id" : "34801210",
+        "link_suffi" : "1",
+        "ds_node_id" : "34801101",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "348012101",
+        "sewer_ref" : "Nightingale Lane Sewer Outlet",
+        "length" : 33.399999999999999,
+        "con_shape" : "EGG",
+        "width" : 1040,
+        "height" : 1610,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "34801210.1",
+        "downLinkID" : null,
+        "DetailModelName" : "Becton",
+        "PipeRef" : "34801210.1",
+        "SSC_1" : "SSC_Nightingale_Outfalls",
+        "Comment" : "SP",
+        "ORIG_FID" : 10
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.0060097169999266953,
+          51.498772927000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "us_node_id" : "38793671",
+        "link_suffi" : "1",
+        "ds_node_id" : "38793681",
+        "link_type" : "Flap",
+        "system_typ" : "foul",
+        "asset_id" : "387936711",
+        "sewer_ref" : " ",
+        "length" : 0,
+        "con_shape" : " ",
+        "width" : 0,
+        "height" : 0,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "38793671.1",
+        "downLinkID" : null,
+        "DetailModelName" : "Becton",
+        "PipeRef" : "38793671.1",
+        "SSC_1" : "SSC_IsleOfDogs",
+        "Comment" : "SP",
+        "ORIG_FID" : 11
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.25423691899993628,
+          51.502837825000029
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "us_node_id" : "CS01X_FV2_DS_Acton SR",
+        "link_suffi" : "1",
+        "ds_node_id" : "CS01X_HQ_Acton SR",
+        "link_type" : "Cond",
+        "system_typ" : "other",
+        "asset_id" : "CS01X_FV2_DS_Acton SR1",
+        "sewer_ref" : " ",
+        "length" : 9.8000000000000007,
+        "con_shape" : "RECT",
+        "width" : 2000,
+        "height" : 2000,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "CS01X_FV2_DS_Acton SR.1",
+        "downLinkID" : null,
+        "DetailModelName" : "Becton",
+        "PipeRef" : "CS01X_FV2_DS_Acton SR.1",
+        "SSC_1" : "SSC_ActonSR",
+        "Comment" : "SP",
+        "ORIG_FID" : 12
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.1210088509999423,
+          51.505038974000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "us_node_id" : "CS22X_LLS1N_IC_Victoria",
+        "link_suffi" : "2",
+        "ds_node_id" : "CS22X_LLS1N_PN_Victoria",
+        "link_type" : "Weir",
+        "system_typ" : "other",
+        "asset_id" : "CS22X_LLS1N_IC_Victoria2",
+        "sewer_ref" : " ",
+        "length" : 0,
+        "con_shape" : " ",
+        "width" : 0,
+        "height" : 0,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "CS22X_LLS1N_IC_Victoria.2",
+        "downLinkID" : null,
+        "DetailModelName" : "Becton",
+        "PipeRef" : "CS22X_LLS1N_IC_Victoria.2",
+        "SSC_1" : "SSC_RegentStOutfall",
+        "Comment" : "SP",
+        "ORIG_FID" : 13
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.00064900299997816546,
+          51.528033801000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "us_node_id" : "CS35X_Culvert_AM_StnF",
+        "link_suffi" : "1",
+        "ds_node_id" : "Abbey Mills Shaft F",
+        "link_type" : "Cond",
+        "system_typ" : "other",
+        "asset_id" : "CS35X_Culvert_AM_StnF1",
+        "sewer_ref" : " ",
+        "length" : 18.199999999999999,
+        "con_shape" : "RECT",
+        "width" : 4500,
+        "height" : 6500,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "CS35X_Culvert_AM_StnF.1",
+        "downLinkID" : null,
+        "DetailModelName" : "Becton",
+        "PipeRef" : "CS35X_Culvert_AM_StnF.1",
+        "SSC_1" : "AbbeyMills",
+        "Comment" : "SP",
+        "ORIG_FID" : 14
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.038973269999928561,
+          51.491304402000026
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "us_node_id" : "Earl DWF SPS",
+        "link_suffi" : "1",
+        "ds_node_id" : "CS31X_PN_Earl PS",
+        "link_type" : "Sluice",
+        "system_typ" : "combined",
+        "asset_id" : "Earl DWF SPS1",
+        "sewer_ref" : " ",
+        "length" : 0,
+        "con_shape" : " ",
+        "width" : 0,
+        "height" : 0,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "Earl DWF SPS.1",
+        "downLinkID" : null,
+        "DetailModelName" : "CrossnessICM",
+        "PipeRef" : "Earl DWF SPS.1",
+        "SSC_1" : "SSC_Earl",
+        "Comment" : "SP",
+        "ORIG_FID" : 15
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.13432447899992894,
+          51.481994683000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "us_node_id" : "Heathwall 3",
+        "link_suffi" : "2",
+        "ds_node_id" : "HW Penstock 2",
+        "link_type" : "ORIFIC",
+        "system_typ" : "storm",
+        "asset_id" : "Heathwall 32",
+        "sewer_ref" : " ",
+        "length" : 0,
+        "con_shape" : " ",
+        "width" : 0,
+        "height" : 0,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "Heathwall 3.2",
+        "downLinkID" : null,
+        "DetailModelName" : "CrossnessICM",
+        "PipeRef" : "Heathwall 3.2",
+        "SSC_1" : "SSC_HeathwallPS",
+        "Comment" : "SP",
+        "ORIG_FID" : 16
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.17588179799997761,
+          51.467100949000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "us_node_id" : "Lavender Rd Weir",
+        "link_suffi" : "1",
+        "ds_node_id" : "TQ26756821",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "Lavender Rd Weir1",
+        "sewer_ref" : "Low Level Sewer No.1 (Main Line)",
+        "length" : 7,
+        "con_shape" : "CIRC",
+        "width" : 1220,
+        "height" : 1220,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "Lavender Rd Weir.1",
+        "downLinkID" : null,
+        "DetailModelName" : "CrossnessICM",
+        "PipeRef" : "Lavender Rd Weir.1",
+        "SSC_1" : "SSC_FalconBrookPS",
+        "Comment" : "SP",
+        "ORIG_FID" : 17
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.24749757899996894,
+          51.464505594000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "us_node_id" : "TQ21757407a",
+        "link_suffi" : "1",
+        "ds_node_id" : "TQ21746401",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "TQ21757407a1",
+        "sewer_ref" : " ",
+        "length" : 68.400000000000006,
+        "con_shape" : "CIRC",
+        "width" : 1200,
+        "height" : 1200,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "TQ21757407a.1",
+        "downLinkID" : null,
+        "DetailModelName" : "CrossnessICM",
+        "PipeRef" : "TQ21757407a.1",
+        "SSC_1" : "SSC_WestPutney",
+        "Comment" : "SP",
+        "ORIG_FID" : 18
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.19379879299992808,
+          51.449761323000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "us_node_id" : "TQ25734804",
+        "link_suffi" : "2",
+        "ds_node_id" : "TQ25735902",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "TQ257348042",
+        "sewer_ref" : " ",
+        "length" : 58,
+        "con_shape" : "CIRC",
+        "width" : 450,
+        "height" : 450,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "TQ25734804.2",
+        "downLinkID" : null,
+        "DetailModelName" : "CrossnessICM",
+        "PipeRef" : "TQ25734804.2",
+        "SSC_1" : "SSC_LowLevelStorm",
+        "Comment" : "SP",
+        "ORIG_FID" : 19
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.19338544699996874,
+          51.457070686000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "us_node_id" : "TQ25745710",
+        "link_suffi" : "2",
+        "ds_node_id" : "TQ25745706",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "TQ257457102",
+        "sewer_ref" : "Frogmore Storm Relief Sewer (Old Line)",
+        "length" : 30.699999999999999,
+        "con_shape" : "CIRC",
+        "width" : 1219,
+        "height" : 1219,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "TQ25745710.2",
+        "downLinkID" : null,
+        "DetailModelName" : "CrossnessICM",
+        "PipeRef" : "TQ25745710.2",
+        "SSC_1" : "SSC_Frogmore_BellLaneCreek",
+        "Comment" : "SP",
+        "ORIG_FID" : 20
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.18122231199993166,
+          51.458113227000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "us_node_id" : "TQ26743711",
+        "link_suffi" : "2",
+        "ds_node_id" : "TQ26743908",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "TQ267437112",
+        "sewer_ref" : "Wandle Valley Sewer Extension (Storm Relief Line)",
+        "length" : 158.90000000000001,
+        "con_shape" : "CIRC",
+        "width" : 2540,
+        "height" : 2540,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "TQ26743711.2",
+        "downLinkID" : null,
+        "DetailModelName" : "CrossnessICM",
+        "PipeRef" : "TQ26743711.2",
+        "SSC_1" : "SSC_Wandsworth",
+        "Comment" : "SP",
+        "ORIG_FID" : 21
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.12949634999995396,
+          51.464075688000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "us_node_id" : "TQ29759608",
+        "link_suffi" : "2",
+        "ds_node_id" : "TQ29759612",
+        "link_type" : "Weir",
+        "system_typ" : "storm",
+        "asset_id" : "TQ297596082",
+        "sewer_ref" : " ",
+        "length" : 0,
+        "con_shape" : " ",
+        "width" : 0,
+        "height" : 0,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "TQ29759608.2",
+        "downLinkID" : null,
+        "DetailModelName" : "CrossnessICM",
+        "PipeRef" : "TQ29759608.2",
+        "SSC_1" : "SSC_SouthWestern",
+        "Comment" : "SP",
+        "ORIG_FID" : 22
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.13433963499994661,
+          51.481931475000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "us_node_id" : "TQ29775509",
+        "link_suffi" : "1",
+        "ds_node_id" : "HW Penstock 1",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "TQ297755091",
+        "sewer_ref" : "High Level Sewer No.1 (Balham Extension)",
+        "length" : 16,
+        "con_shape" : "CIRC",
+        "width" : 2440,
+        "height" : 2440,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "TQ29775509.1",
+        "downLinkID" : null,
+        "DetailModelName" : "CrossnessICM",
+        "PipeRef" : "TQ29775509.1",
+        "SSC_1" : "SSC_Heathwall",
+        "Comment" : "SP",
+        "ORIG_FID" : 23
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.11698450699992691,
+          51.455907478000029
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "us_node_id" : "TQ30747618",
+        "link_suffi" : "1",
+        "ds_node_id" : "TQ30748802",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "TQ307476181",
+        "sewer_ref" : "South Western Storm Relief Sewer (Streatham Hill Branch)",
+        "length" : 198,
+        "con_shape" : "CIRC",
+        "width" : 1219,
+        "height" : 1219,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "TQ30747618.1",
+        "downLinkID" : null,
+        "DetailModelName" : "CrossnessICM",
+        "PipeRef" : "TQ30747618.1",
+        "SSC_1" : "SSC_Effra",
+        "Comment" : "SP",
+        "ORIG_FID" : 24
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.12779607699997086,
+          51.465270331000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "us_node_id" : "TQ30750701",
+        "link_suffi" : "1",
+        "ds_node_id" : "TQ30750708",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "TQ307507011",
+        "sewer_ref" : "Clapham Storm Relief Sewer",
+        "length" : 91.900000000000006,
+        "con_shape" : "EGG",
+        "width" : 1422,
+        "height" : 2130,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "TQ30750701.1",
+        "downLinkID" : null,
+        "DetailModelName" : "CrossnessICM",
+        "PipeRef" : "TQ30750701.1",
+        "SSC_1" : "SSC_Clapham",
+        "Comment" : "SP",
+        "ORIG_FID" : 25
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.11070443699992438,
+          51.470475074000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "us_node_id" : "TQ31762302",
+        "link_suffi" : "1",
+        "ds_node_id" : "TQ31762303",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "TQ317623021",
+        "sewer_ref" : "Brixton Storm Relief Sewer",
+        "length" : 40.399999999999999,
+        "con_shape" : "CIRC",
+        "width" : 2590,
+        "height" : 2590,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "TQ31762302.1",
+        "downLinkID" : null,
+        "DetailModelName" : "CrossnessICM",
+        "PipeRef" : "TQ31762302.1",
+        "SSC_1" : "SSC_Brixton",
+        "Comment" : "SP",
+        "ORIG_FID" : 26
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.094703928999933851,
+          51.440463951000027
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "us_node_id" : "TQ32734002",
+        "link_suffi" : "1",
+        "ds_node_id" : "TQ32733001",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "TQ327340021",
+        "sewer_ref" : "South Western Storm Relief Sewer (Main Line)",
+        "length" : 97.400000000000006,
+        "con_shape" : "CIRC",
+        "width" : 1981,
+        "height" : 1981,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "TQ32734002.1",
+        "downLinkID" : null,
+        "DetailModelName" : "CrossnessICM",
+        "PipeRef" : "TQ32734002.1",
+        "SSC_1" : "SSC_WestDulwich",
+        "Comment" : "SP",
+        "ORIG_FID" : 27
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.021329916999945908,
+          51.475425291000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "us_node_id" : "TQ37773005",
+        "link_suffi" : "1",
+        "ds_node_id" : "Deptford E",
+        "link_type" : "Cond",
+        "system_typ" : "storm",
+        "asset_id" : "TQ377730051",
+        "sewer_ref" : "Deptford Storm Overflow",
+        "length" : 9.3000000000000007,
+        "con_shape" : "DEPTFORD OUTFALL",
+        "width" : 4800,
+        "height" : 3350,
+        "Enabled" : 1,
+        "SSC" : null,
+        "Sector" : null,
+        "LinkID" : "TQ37773005.1",
+        "downLinkID" : null,
+        "DetailModelName" : "CrossnessICM",
+        "PipeRef" : "TQ37773005.1",
+        "SSC_1" : "SSC_DeptfordStorm",
+        "Comment" : "SP",
+        "ORIG_FID" : 28
+      }
+    }
+  ]
+}

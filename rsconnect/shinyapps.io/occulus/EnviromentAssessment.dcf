@@ -1,0 +1,11 @@
+name: EnviromentAssessment
+title:
+username:
+account: occulus
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4659573
+bundleId: 5036222
+url: https://occulus.shinyapps.io/EnviromentAssessment/
+when: 1631719100.30509
+lastSyncTime: 1631719100.30509
